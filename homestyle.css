@@ -1,0 +1,53 @@
+html {
+  background: url(metalframe5.jpg) no-repeat center center fixed;
+  background-size: cover;
+  background-position: cover;
+  }
+h1{
+     font-family: 'Londrina Shadow', cursive;
+     font-size: 60px;
+     margin:-10px 0 -20px 0;
+}
+h2{
+     font-family: 'Londrina Shadow', cursive;
+     font-size: 40px;
+     margin:-10px 0 -20px 0;
+     color: #cccccc;
+}
+body {
+     color: black;
+     font-family: tahoma;
+     font-size: 18px;
+     margin: 0 auto;
+     }
+#headers{
+          text-align:center;
+     }
+     img{
+     margin: 50px 0 0 0;
+     }
+     ul {
+          padding: 10px;
+          background: rgba(0,0,0,0.8);
+          color: white;
+          }
+     li {
+          display: inline;
+     }
+     a {
+          color: yellow;
+     }
+     img {
+          margin: 40px 0 0 0;
+          border-color: 10px black;
+          border-radius: 20px;
+     }
+#content{}
+     article{
+          text-align: center;
+          background-color: rgba(91,91,91,0.9);
+          max-width: 600px;
+          padding: 10px;
+          margin: 0 auto;
+          color: white;
+     }
