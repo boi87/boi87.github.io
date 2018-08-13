@@ -39,6 +39,10 @@ body {
      a {
           color: yellow;
      }
+  li a:hover {
+    background-color: yellow;
+    color: black;
+}
      
 #content{}
      article{
